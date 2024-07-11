@@ -1,0 +1,44 @@
+* First launch instance
+
+	* Select AWS Linux
+	* Create key by new pair
+	* Allow SSH traffic
+	* Select anywhere IP
+	* Allow HTTPs traffic
+
+* Connect instance you will see a CLI Linux
+
+* Create IAM roles
+	aws services 
+	usecase ec2
+	filter by aws manage job function
+	select first option
+	name the role and create
+	
+* Select the instance then select action then security and modify IAM role
+
+* Choose IAM role you created and update
+
+**********CREATE S3 BUCKET**************
+
+* Search S3
+
+* Create Bucket
+
+* name it then create bucket
+
+* after this click your bucket and then upload image
+
+********CONSOLE*************
+
+type command
+
+	aws s3 ls s3://bucketname
+
+
+
+
+
+
+
+
